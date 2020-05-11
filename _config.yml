@@ -1,11 +1,11 @@
 # Site settings
-author: Carrie Jones
-title: 
+author: Carrie
+title: Thorns and Thunder
 header-img: img/home-bg.png
 email: c.jessica.jones@gmail.com
-copyright_name: Carrie Jones
+copyright_name: Carrie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Truth, Beauty, Freedom, Love, Heavy Metal, and Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ThornlessRose3
